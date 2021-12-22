@@ -1,4 +1,4 @@
-# UQAC-8PRO135-unity
+# Audio Analyser - Recrutement ENJMIN
 Projet réalisé dans le cadre du recrutement au master jeux et médias interactifs numérique (Jmin) 2022.
 
 Realized by Romain Salha.
